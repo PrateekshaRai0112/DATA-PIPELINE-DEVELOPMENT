@@ -1,0 +1,6 @@
+Name,Age,Gender,Salary,Purchased
+Alice,25,Female,50000,Yes
+Bob,30,Male,60000,No
+Charlie,,Male,55000,Yes
+David,35,,58000,No
+Eva,29,Female,,Yes
